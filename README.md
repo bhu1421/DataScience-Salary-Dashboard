@@ -52,6 +52,8 @@ Data Validation dropdowns allow users to select:
 
 This enables dynamic salary comparisons based on the selected criteria.
 
+[./dashbord.png]
+
 ## 📂 Project Files
 
 ```text
